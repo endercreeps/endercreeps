@@ -4,7 +4,7 @@ I'm a passionate developer with experience in multiple programming languages and
 
 # About me 
 
-- A French student in his first year of IT studies
+- A French student in his second year of IT studies
 - Student at Valence (IUT of Valence)
 - Born in June 2005
 - Like CS since I was kid, started by my father
