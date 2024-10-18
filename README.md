@@ -16,6 +16,7 @@ I'm a passionate developer with experience in multiple programming languages and
 - **JavaScript (JS)**
 - **C/C++**
 - **Java**
+- **PHP**
 - **Dart**
 - **Assembling**
 - **C#**
@@ -27,11 +28,13 @@ I'm a passionate developer with experience in multiple programming languages and
 - **discord.py**
 - **Tkinter**
 - **PyGames**
+- **Arduino**
 
 ### 💻 Web Development
 - **HTML**
 - **CSS**
 - **Sass**
+- **ReactNative**
 
 ### 🗄️ Databases
 - **SQL**
