@@ -64,6 +64,7 @@ I'm a passionate developer with experience in multiple programming languages and
 
 Check out some of my favorite projects:
 - [ShooterGame](https://github.com/endercreeps/Jeu-de-tir) - Shooter Game in Pyhton using Tkinter.
+- [Battery Monitor](https://github.com/endercreeps/BatteryMonitor/) - Short Windows App for send API request depending on you'r laptop battery status
 
 ---
 
